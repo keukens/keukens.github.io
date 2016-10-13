@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://keukens.github.io
+title: Keukens
+email: gerdaverbeek257@gmail.com
+author: Gerda Verbeek
+description: Keuken, Badkamer, Tegels, Sauna en Infraroodcabine
+paginate: 10
+google_analytics: 
