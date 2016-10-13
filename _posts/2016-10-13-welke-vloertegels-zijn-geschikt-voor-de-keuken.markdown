@@ -2,6 +2,7 @@
 published: true
 title: Welke vloertegels zijn geschikt voor de keuken?
 layout: post
+permalink: 1
 ---
 <p>Wanneer je op zoek bent naar een nieuwe vloer voor je keuken, dan zijn er een aantal aspecten om rekening mee te houden. De vloer moet niet alleen sterk, maar vooral waterbestendig en hygi&euml;nisch zijn. Een houten vloer, hoe mooi en sfeervol hout ook is, is in dit geval niet de meest logische keuze. Hout vraagt om regelmatig onderhoud. Wanneer het geen speciale behandeling heeft ondergaan, is het gevoelig voor water en hout krast en slijt snel. Een veel betere en hygi&euml;nische keuze voor de keukenvloer zijn tegels. Vooral keramische <strong><a href="http://www.janvansundert.be/vloertegels">vloertegels</a></strong> zijn zeer geschikt. We zetten de voordelen op een rijtje.</p>
 <p><strong>&nbsp;</strong></p>
