@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Ook Tegels Koop Je Bij De Sanitairwinkel
 layout: post
 ---
@@ -12,4 +12,3 @@ layout: post
 <p><strong>Het resultaat mag er zijn</strong></p>
 <p>&nbsp;</p>
 <p>Het is een behoorlijke klus. Eerst zal de oude badkamer volledig moeten worden gesloopt en afgevoerd. Gelukkig kunnen de monteurs dit geheel voor je uit handen nemen. Het plaatsen van de nieuwe wand- en vloertegels en het installeren van het sanitair is precisiewerk en vraagt dan ook om de nodige ervaring. Alles dient waterpas en waterdicht te worden opgeleverd. Voegen moeten worden gekit en de kranen, het toilet en de douche moeten perfect op de watertoevoer worden aangesloten. Pas als dit allemaal in orde is, is de badkamer echt klaar en kan het genieten beginnen!</p>
-
