@@ -2,6 +2,7 @@
 published: false
 title: Voordelige badkamertegels vind je in de tegel outlet
 layout: post
+permalink: 5
 ---
 <p>Het betegelen van je badkamer kun je laten uitvoeren door een professional, of helemaal zelf doen. Maar wanneer je hier geen ervaring mee hebt, is het aan te raden dit aan een echte vakman over te laten. Maar wat als je kosten wilt besparen en geen klusser in wilt of kunt huren? Bespaar dan op de kosten van je tegels! Ga op zoek naar betaalbare tegels die wel van mooie kwaliteit zijn. Waar je die kunt vinden? We geven je graag een handige tip.</p>
 <p>&nbsp;</p>
