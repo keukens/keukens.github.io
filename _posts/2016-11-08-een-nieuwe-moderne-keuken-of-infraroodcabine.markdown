@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Een nieuwe moderne keuken of infraroodcabine?
 layout: post
 ---
