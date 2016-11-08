@@ -2,6 +2,7 @@
 published: true
 title: Ruimtebesparend: Rechte Keuken En Multifunctionele Badkamers
 layout: post
+permalink: 2
 ---
 <p>Wanneer je niet veel ruimte hebt, maar wel graag een nieuwe keuken of badkamer wilt (laten) plaatsen, dan zijn er een aantal aspecten waar je rekening mee kunt houden om de ruimte zo effici&euml;nt mogelijk in te delen. Maar hoe doe je dat? We geven je graag een paar handige tips.</p>
 <p><strong>&nbsp;</strong></p>
